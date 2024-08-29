@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchiasagar21&label=Profile%20views&color=0e75b6&style=flat" alt="ruchiasagar21" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Software Engineering Professional Certificate**
+- 🌱 I’m always learning
 
 - 💬 Ask me about **Cloud**
 
-- 📫 How to reach me **ruchianandsagar212@gmail.com**
+- 📫 How to reach me **ruchiasagar21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
